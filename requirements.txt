@@ -4,3 +4,5 @@ numpy
 python-dotenv
 certifi
 scikit-learn
+dill
+pyaml
