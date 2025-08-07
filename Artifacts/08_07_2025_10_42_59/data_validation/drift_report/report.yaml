@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 1.0
+DNSRecord:
+  drift_status: false
+  p_value: 0.9999510909578456
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.9998299425911609
+Favicon:
+  drift_status: false
+  p_value: 0.9999999750532348
+Google_Index:
+  drift_status: false
+  p_value: 1.0
+HTTPS_token:
+  drift_status: false
+  p_value: 0.9999999998789996
+Iframe:
+  drift_status: false
+  p_value: 1.0
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9860900857001905
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 1.0
+Page_Rank:
+  drift_status: false
+  p_value: 0.8079952786138995
+Prefix_Suffix:
+  drift_status: false
+  p_value: 0.48909262763273814
+Redirect:
+  drift_status: false
+  p_value: 1.0
+Request_URL:
+  drift_status: false
+  p_value: 1.0
+Result:
+  drift_status: false
+  p_value: 0.999230651758703
+RightClick:
+  drift_status: false
+  p_value: 0.9999062353866229
+SFH:
+  drift_status: false
+  p_value: 0.9995152509457711
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.5421037469854307
+Shortining_Service:
+  drift_status: false
+  p_value: 0.928294204054473
+Statistical_report:
+  drift_status: false
+  p_value: 0.8685540728180071
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.793456747140991
+URL_Length:
+  drift_status: false
+  p_value: 0.9763752606358573
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.8923284435665428
+age_of_domain:
+  drift_status: false
+  p_value: 0.44566877193471394
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.928294204054473
+having_At_Symbol:
+  drift_status: false
+  p_value: 0.9985597993583677
+having_IP_Address:
+  drift_status: false
+  p_value: 0.5421037469854307
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.6289523183481528
+on_mouseover:
+  drift_status: false
+  p_value: 1.0
+popUpWidnow:
+  drift_status: false
+  p_value: 1.0
+port:
+  drift_status: false
+  p_value: 0.9990438890770315
+web_traffic:
+  drift_status: false
+  p_value: 0.918796249345484

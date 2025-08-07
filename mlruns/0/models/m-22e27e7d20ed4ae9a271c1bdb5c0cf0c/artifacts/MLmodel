@@ -1,0 +1,22 @@
+artifact_path: file:///Users/saketsmac/saket_udemy_ml/24.Network_Security_project/mlruns/0/models/m-22e27e7d20ed4ae9a271c1bdb5c0cf0c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-22e27e7d20ed4ae9a271c1bdb5c0cf0c
+model_size_bytes: 26844962
+model_uuid: m-22e27e7d20ed4ae9a271c1bdb5c0cf0c
+prompts: null
+run_id: 5aefa158a3ec4bd0a8383f4f01c5f885
+utc_time_created: '2025-08-07 05:19:27.529099'
