@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/saketsmac/saket_udemy_ml/24.Network_Security_project/mlruns/0/cf51b20fd42e4d09af05ce57e6d64c58/artifacts
+end_time: 1754547914812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf51b20fd42e4d09af05ce57e6d64c58
+run_name: indecisive-yak-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754547913321
+status: 3
+tags: []
+user_id: saketsmac

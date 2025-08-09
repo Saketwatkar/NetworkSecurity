@@ -1,0 +1,10 @@
+artifact_location: file:///Users/saketsmac/saket_udemy_ml/24.Network_Security_project/mlruns/0/models/m-d1144d171f6148e2a580e83bd3e263cb/artifacts
+creation_timestamp: 1754547913338
+experiment_id: '0'
+last_updated_timestamp: 1754547914809
+model_id: m-d1144d171f6148e2a580e83bd3e263cb
+model_type: null
+name: model
+source_run_id: cf51b20fd42e4d09af05ce57e6d64c58
+status: 2
+status_message: null
