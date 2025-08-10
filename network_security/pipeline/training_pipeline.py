@@ -25,7 +25,7 @@ from network_security.entity.artifact_entity import (
 )
 
 from network_security.constants.training_pipeline import TRAINING_BUCKET_NAME
-#from network_security.cloud.s3_syncer import S3Sync
+from network_security.cloud.s3_syncer import S3Sync
 from network_security.constants.training_pipeline import SAVED_MODEL_DIR
 import sys
 
@@ -33,7 +33,7 @@ import sys
 class TrainingPipeline:
     def __init__(self):
         self.training_pipeline_config=TrainingPipelineConfig()
-        # self.s3_sync = S3Sync()
+        self.s3_sync = S3Sync()
         
 
     def start_data_ingestion(self):
@@ -126,6 +126,6 @@ import mlflow.sklearn
 
 def track_mlflow(self, model, metrics: dict):
     with mlflow.start_run():
-        mlflow.log_params(self.model_trainer_config.__dict__)
+        mlflow.log_params({k: str(v) for k, v in self.model_trainer_config.__dict__.items()})
         mlflow.log_metrics(metrics)
         mlflow.sklearn.log_model(model, "model")
